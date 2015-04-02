@@ -1,0 +1,24 @@
+{
+  "name": "title-case-pt",
+  "version": "0.1.0",
+  "description": "Title case strings in Portuguese.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vgeorge/title-case-pt.git"
+  },
+  "author": {
+    "name": "Vitor George",
+    "email": "vitor.george@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^0.4.1",
+    "title-case": "^1.1.0"
+  },
+  "keywords": [
+    "title",
+    "case"
+  ],
+
+}
